@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\Win10\Desktop\实验\信安综合实验\大作业\UDPPortDetect\UDPPortDetect\main.cpp(96,18): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\Win10\Desktop\实验\信安综合实验\大作业\UDPPortDetect\UDPPortDetect\main.cpp(110,17): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\Win10\Desktop\实验\信安综合实验\大作业\UDPPortDetect\UDPPortDetect\main.cpp(144,28): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\Win10\Desktop\实验\信安综合实验\大作业\UDPPortDetect\UDPPortDetect\main.cpp(166,28): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\Win10\Desktop\实验\信安综合实验\大作业\UDPPortDetect\UDPPortDetect\main.cpp(195,49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\Win10\Desktop\实验\信安综合实验\大作业\UDPPortDetect\UDPPortDetect\main.cpp(224,42): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\Win10\Desktop\实验\信安综合实验\大作业\UDPPortDetect\UDPPortDetect\main.cpp(182,10): warning C4101: “port”: 未引用的局部变量
+C:\Users\Win10\Desktop\实验\信安综合实验\大作业\UDPPortDetect\UDPPortDetect\main.cpp(181,9): warning C4101: “hlen”: 未引用的局部变量
+C:\Users\Win10\Desktop\实验\信安综合实验\大作业\UDPPortDetect\UDPPortDetect\main.cpp(180,18): warning C4101: “icmp”: 未引用的局部变量
+  正在生成代码
+  1 of 86 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  UDPPortDetect.vcxproj -> C:\Users\Win10\Desktop\实验\信安综合实验\大作业\UDPPortDetect\Release\UDPPortDetect.exe
